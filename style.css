@@ -1,0 +1,889 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(https://www.goha.ru/s/FOX:N4/eQ/97a5RG16lN.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    background-position: 50% 0px;
+}
+.navfirst {
+    font-family: Segoe UI, sans-serif;
+    font-style: normal;
+    height: 60px;
+    width: 100%;
+    color: black;
+    background-color: #264060;
+    font-size: 20px;
+}
+.navfirst, img {
+    display: flex;
+    justify-content: flex-start; 
+    align-items: center;
+}
+.navfirst a {
+    text-decoration: none;
+    margin-left: 30px;
+}
+.logotypenav {
+    padding-left: 150px;
+}
+.header a {
+    text-decoration: none;
+}
+.firstcont {
+    width: 1280px;
+    height: 520px;
+    background-color: rgb(94, 93, 93);
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 330px;
+    margin-right: 330px;
+    padding-bottom: 50px;
+    margin-top: 320px;
+    flex-flow: wrap;
+}
+
+.firstblockfc {
+    background-image: url(allimages/1block1new.jpg);
+    width: 393px;
+    height: 220px;
+    background-size: 560px;
+    border-radius: 5px;
+    filter: brightness(75%);
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+.firsth2x {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: 100%;
+    position: relative;
+    box-sizing: border-box;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 40px;
+    margin-left: 10px;
+}
+.firstpar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    margin: 0;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    z-index: 2;
+}
+.secondblockfc{
+    background-image: url(allimages/babababa.jpg);
+    width: 393px;
+    height: 220px;
+    background-size: 560px;
+    border-radius: 5px;
+    filter: brightness(75%);
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.secondth2x {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: 100%;
+    position: relative;
+    box-sizing: border-box;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 30px;
+    margin-left: 10px;
+}
+.secondpar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    margin: 0;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    z-index: 2;
+}
+.threeblockfc{
+    background-image: url(allimages/throneandliberty.jpg);
+    width: 393px;
+    height: 220px;
+    border-radius: 5px;
+    filter: brightness(75%);
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.threepar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    margin: 0;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    z-index: 2;
+}
+.threeth3x {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: 100%;
+    position: relative;
+    box-sizing: border-box;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 30px;
+    margin-left: 10px;
+}
+.fourblockfc {
+    background-image: url(allimages/archeage.jpeg);
+    background-size: cover;
+    width: 393px;
+    height: 220px;
+    border-radius: 5px;
+    filter: brightness(75%);
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.fourpar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    margin: 0;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    z-index: 2;
+}
+.fourth3x {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: 100%;
+    position: relative;
+    box-sizing: border-box;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 30px;
+    margin-left: 10px;
+}
+.fifthblockfc {
+    background-image: url(allimages/Huawei-WiFi-BE3-640x360.jpg);
+    background-size: cover;
+    width: 393px;
+    height: 220px;
+    border-radius: 5px;
+    filter: brightness(75%);
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.fifthpar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    margin: 0;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    z-index: 2;  
+}
+.fifthth3x {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: 100%;
+    position: relative;
+    box-sizing: border-box;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 30px;
+    margin-left: 10px;
+    color: white;
+    text-shadow: 
+        -1px -1px 0 black,
+         1px -1px 0 black,
+        -1px  1px 0 black,
+         1px  1px 0 black;
+}
+.sixthblockfc {
+    background-image: url(allimages/6cdb133a4b.jpg);
+    background-size: cover;
+    width: 393px;
+    height: 220px;
+    border-radius: 5px;
+    filter: brightness(75%);
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.sixthpar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    margin: 0;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    z-index: 2;  
+}
+.sixthth3x {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: 100%;
+    position: relative;
+    box-sizing: border-box;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 30px;
+    margin-left: 10px;
+    color: white;
+}
+.block1photo {
+ background-color: rgb(185, 185, 185);
+width: 280px;
+height: 350px;
+border-radius: 5px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: medium;
+}
+
+.block1ph {
+    border-radius: 5px;
+}
+
+.block2photo {
+    background-color: rgb(185, 185, 185);
+ width: 280px;
+ height: 350px;
+ border-radius: 5px;
+    
+}
+
+.block2ph {
+    border-radius: 5px;
+}
+
+.block2 {
+    padding-left: 10px;
+    color: #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+} 
+
+.aa {
+display: flex;
+justify-content: space-between;
+flex-flow: wrap;
+margin-left: 330px;
+margin-right: 330px;
+margin-top: 25px;
+padding-bottom: 50px;
+background-color: rgb(94, 93, 93);
+width: 1280px;
+height: 1240px;
+border-radius: 5px;
+}
+
+.block3photo {
+    margin-top: 50px;
+    background-color: rgb(185, 185, 185);
+    background-image: url(allimages/XTzYItISGk.webp);
+    background-size: cover;
+    opacity: 95%;
+    width: 280px;
+    height: 350px;
+    border-radius: 5px;
+    margin-right: 15px;
+}
+
+.block4photo {
+    background-color: rgb(185, 185, 185);
+    width: 280px;
+    height: 350px;
+    border-radius: 5px;
+    margin-top: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    margin-right: 30px;
+}
+.block2photo {
+    margin-top: 50px;
+    margin-left: 15px;
+}
+.block1photo {
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.block3{
+    padding-top: 210px;
+    padding-left: 10px;
+    color: #ffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.header {
+    width: 100%;
+    height: 30px;
+    background-image: url(allimages/950x350-gray-solid-color-background.jpg);
+    background-size: cover;
+    font-size: 101%;
+    font-family: Segoe UI, sans-serif;
+    height: 60px;
+    width: 100%;
+    color: black;
+    background-color: #264060;
+    font-size: 18px;
+    display: flex;
+    justify-content: flex-start; 
+    align-items: center;
+}   
+.header a {
+    margin-left: 30px;
+    white-space: nowrap;
+}
+.text {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 500px;
+    padding-left: 20px;
+    color: white;
+
+}
+a {
+    color: white;
+}
+.f5block2s {
+    width: 590px;
+    height: 220px;
+    background-color: rgb(185, 185, 185);
+    border-radius: 5px;
+    margin-left: 40px;
+    
+}
+.blocktype1 {
+    margin-left: 15px;
+}
+.blocktime1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+.blocktext1 {
+    margin-left: 10px;
+}
+.f5blockpar1 {
+    margin-left: 10px;
+}
+
+.f6block {
+    width: 590px;
+    height: 220px;
+    background-image: url(allimages/ctct.webp);
+    background-size: cover;
+    border-radius: 5px;
+    margin-right: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.blocktype2 {
+    margin-left: 15px;
+    color: white;
+}
+.blocktime2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    margin-top: 10px;
+    color: white;
+}
+.blocktext2 {
+    margin-left: 10px;
+    margin-top: 60px;
+    color: white;
+}
+.f7block {
+    width: 285px;
+    height: 354px;
+    background-color: rgb(185, 185, 185);
+    border-radius: 5px;
+    margin-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    flex-direction: column;
+    justify-content: space-between; 
+    overflow: hidden; 
+}
+.f7blockphoto {
+    border-radius: 5px;
+}
+.blocktype3 {
+    margin-left: 15px;
+}
+.blocktext3 {
+    margin-left: 15px;
+    
+}
+
+.blocktype3, .blocktext3, .blocktime3 {
+    margin: 0;
+    padding: 0;
+}
+
+.blocktype3 {
+    font-size: 14px;
+    color: #000000;
+    margin-bottom: 20px
+}
+
+.blocktext3 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.blocktime3 {
+    font-size: 13px;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.f8block {
+    width: 285px;
+    height: 354px;
+    background-image: url(allimages/pathofexilez.webp);
+    background-size: cover;
+    background-position: 60% 0px;
+    border-radius: 5px;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.blocktype8 {
+    font-size: 16px;
+    color: #ffffff;
+    margin-bottom: 85px;
+    margin-left: 15px;
+}
+.blocktext8 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 100px;
+    color: #fff;
+    margin-left: 15px;
+}
+.blocktime8 {
+    font-size: 15px;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 15px;
+}
+.f9block {
+    width: 285px;
+    height: 354px;
+    background-color: rgb(185, 185, 185);
+    border-radius: 5px;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.blocktype9 {
+    font-size: 16px;
+    color: #000000;
+    margin-bottom: 10px;
+    margin-left: 15px;
+}
+.blocktext9 {
+    font-size: 26px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #000000;
+    margin-left: 15px;
+}
+.blockpar9 {
+    font-size: 18px;
+    color: #000000;
+    margin-left: 15px;
+}
+.blocktime9 {
+    font-size: 15px;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 15px;
+}
+.f10block {
+    width: 285px;
+    height: 354px;
+    background-color: rgb(185, 185, 185);
+    border-radius: 5px;
+    margin-left: 40px;
+    margin-right: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.f10blockphoto {
+    border-radius: 5px;
+}
+.blocktype10 {
+    font-size: 16px;
+    color: #000000;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.blocktext10 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #000000;
+    margin-left: 15px;
+}
+.blocktime10 {
+    font-size: 14px;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 15px;
+}
+.discussnow {
+    background-color: #264060;
+    height: 350px;
+    width: 1280px;
+    border-radius: 15px;
+    margin-left: 330px;
+    margin-right: 330px;
+    margin-top: 25px;
+    padding-bottom: 50px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    flex-flow: row;
+    gap: 5px;
+    overflow: hidden;
+}
+.firstdiscussphoto {
+    border-radius: 5px;   
+}
+.firstdiscuss {
+    width: 323px;
+    height: 285px;
+    padding-left: 15px;
+    padding-top: 80px;
+    position: relative;
+}
+.discussnow p, h2 {
+    color: #fff;
+}
+.firstdiscusspar {
+    font-size: 12px;
+}
+.firstdiscusstext {
+    font-size: 16px;
+}
+.seconddiscuss {
+    width: 323px;
+    height: 285px;
+    padding-left: 25px;
+    padding-top: 80px;
+    position: relative;
+}
+.seconddiscussphoto{
+    border-radius: 5px;
+}
+.seconddiscusstext {
+    font-size: 16px;
+}
+.seconddiscusspar {
+    font-size: 12px;
+}
+.thirstdiscuss {
+    width: 323px;
+    height: 285px;
+    padding-left: 25px;
+    padding-top: 80px;
+    position: relative;
+}
+.thirstdiscussphoto{
+    border-radius: 5px;
+}
+.thirstdiscusstext {
+    font-size: 16px;
+    word-wrap: break-word; 
+    overflow: hidden;
+}
+.thirstdiscusspar {
+    font-size: 12px;
+}
+.fourthdiscuss {
+    width: 323px;
+    height: 285px;
+    padding-left: 25px;
+    padding-top: 80px;
+    position: relative;
+}
+.fourthdiscussphoto{
+    border-radius: 5px;
+}
+.fourthdiscusstext {
+    font-size: 16px;
+    word-wrap: break-word; 
+    overflow: hidden;
+}
+.fourthdiscusspar {
+    font-size: 12px;
+}
+.discussnowtextas {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    position: absolute;
+    margin-left: 15px;
+}
+.videotextb {
+    font-family: Open Sans,sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 22px;
+    color: black;
+    margin-left: 15px;
+    position: absolute;
+}
+.videosnow {
+    width: 1280px;
+    height: 320px;
+    margin-left: 330px;
+    margin-right: 330px;
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+    flex-flow: nowrap;
+}
+.firstvideos {
+    margin-top: 45px;
+    margin-left: 15px;
+    width: 386px;
+    height: 217px;
+    background-size: 160%;
+    background-image: url(allimages/videosphone1.jpg);
+    color: white;
+}
+.videopervpar {
+    position: absolute;
+    width: 386px;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    margin: 0;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    z-index: 2;
+    margin-left: 1px;
+}
+.videosfirsttext {
+    padding-top: 130px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #F5E6E6;
+    font-size: 18px;
+    text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.856);
+}
+.secondvideos {
+    margin-top: 45px;
+    margin-left: 30px;
+    width: 386px;
+    height: 217px;
+    background-size: 170%;
+    background-image: url(allimages/videosphone2.jpg);
+    color: white;
+}
+.videosecpar {
+    position: absolute;
+    width: 386px;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    margin: 0;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    z-index: 2;
+}
+.videovtortext {
+    padding-top: 130px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #F5E6E6;
+    font-size: 18px;
+    text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.856);
+}
+.thirstvideos {
+    margin-top: 45px;
+    margin-left: 30px;
+    margin-right: 15px;
+    width: 386px;
+    height: 217px;
+    background-size: 170%;
+    background-image: url(allimages/videosphone3.jpg);
+    color: white;
+}
+.videothrepar {
+    position: absolute;
+    width: 386px;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    margin: 0;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    z-index: 2;
+}
+.videosthreetext {
+    padding-top: 130px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #F5E6E6;
+    font-size: 18px;
+    text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.856);
+}
+.vchepoigrat {
+    width: 1280px;
+    height: 320px;
+    background-color: rgb(18, 19, 41);
+    border-radius: 15px;
+    margin-top: 30px;
+    display: flex;
+    margin-left: 330px;
+    flex-flow: row;
+    justify-content: space-between;
+}
+.igritext {
+    font-family: Open Sans,sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 22px;
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+    margin-top: 20px;
+    position: absolute;
+}
+.igrifirst {
+width: 285px;
+height: 273px;
+}
+.igrifirstphoto {
+    border-radius: 10px;
+    margin-top: 60px;
+    margin-left: 15px;
+}
+.igfirst {
+    color: white;
+    font-size: 18px;
+    margin-left: 15px;
+}
+.igrisecond {
+width: 285px;
+height: 273px;
+}
+.igrisecondphoto {
+    border-radius: 10px;
+    margin-top: 60px;
+}
+.igsecond {
+    color: white;
+    font-size: 18px;
+    margin-left: 15px;
+}
+.igrithirst {
+width: 285px;
+height: 273px;
+}
+.igrithirstphoto {
+    border-radius: 10px;
+    margin-top: 60px;
+}
+.igthirst {
+    color: white;
+    font-size: 18px;
+    margin-left: 15px;
+}
+.igrifourth {
+width: 285px;
+height: 273px;
+}
+.igrifourthphoto {
+    border-radius: 10px;
+    margin-top: 60px;
+    margin-right: 100px;
+}
+.igfourth {
+    color: white;
+    font-size: 18px;
+    margin-left: 15px;
+}
+.footer {
+            background-color: #2e2e2e;
+            color: white;
+            padding: 20px 0;
+        }
+        
+        .footer-container {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            max-width: 1200px;
+            margin: auto;
+            padding: 10px;
+        }
+        
+        .footer-section {
+            flex: 1;
+            min-width: 200px;
+            margin: 10px;
+        }
+        
+        .footer-section h3 {
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+        
+        .footer-section ul {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .footer-section ul li {
+            margin-bottom: 5px;
+        }
+        
+        .footer-section ul li a {
+            text-decoration: none;
+            color: white;
+            opacity: 0.8;
+            transition: opacity 0.3s;
+        }
+        
+        .footer-section ul li a:hover {
+            opacity: 1;
+        }
+        
+        .footer-bottom {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px;
+            background: #222;
+        }

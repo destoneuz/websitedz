@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="41.666666666667px" width="100px"   viewBox="0 0 102 42" xmlns="http://www.w3.org/2000/svg">
+    
+
+    <rect fill="#272727" class="gohasvg-2" x="73" width="3" height="42" />
+    <rect fill="#272727" class="gohasvg-2" x="91" width="3" height="42" />
+    <rect fill="#272727"  class="gohasvg-2" x="99" width="3" height="42" />
+
+    <path fill="#272727" class="gohasvg-4" transform="translate(-418 -12)" d="m492 15v-3h11v3h-11z" />
+    <path fill="#272727" class="gohasvg-4" transform="translate(-418 -12)" d="m509 54v-3h11v3h-11z" />
+
+
+    <rect fill="#272727" class="gohasvg-1" width="3" height="34"/>
+    <rect fill="#272727" class="gohasvg-1" x="8" width="3" height="42" />
+    <rect fill="#272727" class="gohasvg-1" x="18" width="3" height="42" />
+    <rect fill="#272727" class="gohasvg-1" x="26" width="3" height="42" />
+    <rect fill="#272727" class="gohasvg-1" x="36" width="3" height="42" />
+    <rect fill="#272727" class="gohasvg-1" x="63" width="3" height="42" />
+    <rect fill="#272727" class="gohasvg-1" x="44" y="13" width="3" height="29" />
+    <rect fill="#272727" class="gohasvg-1" x="54" y="13" width="3" height="29" />
+    <path fill="#272727" class="gohasvg-3" transform="translate(-418 -12)" d="m418 15v-3h11v3h-11z" />
+    <path fill="#272727" class="gohasvg-3" transform="translate(-418 -12)" d="m436 15v-3h11v3h-11z" />
+    <path fill="#272727" class="gohasvg-3" transform="translate(-418 -12)" d="m454 28v-3h11v3h-11z" />
+    <path fill="#272727" class="gohasvg-3" transform="translate(-418 -12)" d="m473 28v-3h11v3h-11z" />
+    <path fill="#272727" class="gohasvg-3" transform="translate(-418 -12)" d="m473 54v-3h11v3h-11z" />
+    <path fill="#272727" class="gohasvg-3" transform="translate(-418 -12)" d="m473 15v-3h11v3h-11z" />
+    <path fill="#272727" class="gohasvg-3" transform="translate(-418 -12)" d="m436 54v-3h11v3h-11z" />
+    <path fill="#272727" class="gohasvg-3" transform="translate(-418 -12)" d="m418 54v-3h11v3h-11z" />
+    <path fill="#272727" class="gohasvg-3" transform="translate(-418 -12)" d="m418 46v-3h11v3h-11z" />
+</svg>
